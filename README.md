@@ -7,7 +7,7 @@ I am working on some side projects right now, learning math and banging my head 
 <a href="https://discord.gg/gBHgbENaXu"><img src="https://img.shields.io/static/v1?label=%20&message=Discord&color=%235865F2&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/atvuvczyikvwvz55lohq8cres"><img src="https://img.shields.io/static/v1?label=%20&message=Spotify&color=%231DB954&logo=spotify&logoColor=white"></a></p>
 
-# My projects (WIP)
+# Gema jams
 
 <table border="1px solid black">
     <tr>
@@ -21,8 +21,8 @@ I am working on some side projects right now, learning math and banging my head 
         <td>Scare away the darkness and protect child's night light!</td>
     </tr>
     <tr>
-        <td><img src="https://img.itch.zone/aW1nLzExMjQ4MzA2LmdpZg==/347x500/4KJqDO.gif" width="128px"></td>
-        <td><a href="https://agaa3.itch.io/antcorp">AntCorp</a></td>
+        <td><img src="https://img.itch.zone/aW1nLzExNzUzMzI0LnBuZw==/347x500/Zzuc48.png" width="128px"></td>
+        <td><a href="https://chernikov.itch.io/elf-escape">Elf Escape</a></td>
         <td>Adventure of an ant in the anthill. Gather candies, sticks and friends that will help you survive. </td>
     </tr>
 </table>
