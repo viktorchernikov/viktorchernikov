@@ -7,7 +7,7 @@ I am working on some side projects right now, learning math and banging my head 
 <a href="https://discord.gg/gBHgbENaXu"><img src="https://img.shields.io/static/v1?label=%20&message=Discord&color=%235865F2&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/atvuvczyikvwvz55lohq8cres"><img src="https://img.shields.io/static/v1?label=%20&message=Spotify&color=%231DB954&logo=spotify&logoColor=white"></a></p>
 
-# Gema jams
+# Game jams
 
 <table border="1px solid black">
     <tr>
