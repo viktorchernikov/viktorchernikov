@@ -23,6 +23,6 @@ I am working on some side projects right now, learning math and banging my head 
     <tr>
         <td><img src="https://img.itch.zone/aW1nLzExNzUzMzI0LnBuZw==/347x500/Zzuc48.png" width="128px"></td>
         <td><a href="https://chernikov.itch.io/elf-escape">Elf Escape</a></td>
-        <td>Adventure of an ant in the anthill. Gather candies, sticks and friends that will help you survive. </td>
+        <td>a game where Yarmil an elf boy has to return home after he walked up to a mythical circle of mushrooms.</td>
     </tr>
 </table>
