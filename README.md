@@ -21,8 +21,8 @@ I am working on some side projects right now, learning math and banging my head 
         <td>Scare away the darkness and protect child's night light!</td>
     </tr>
     <tr>
-        <td><img src="https://img.itch.zone/aW1nLzExNzUzMzI0LnBuZw==/347x500/Zzuc48.png" width="128px"></td>
+        <td><img src="https://img.itch.zone/aW1nLzExNzczMDY1LnBuZw==/315x250%23c/nqTGyP.png" width="128px"></td>
         <td><a href="https://chernikov.itch.io/elf-escape">Elf Escape</a></td>
-        <td>a game where Yarmil an elf boy has to return home after he walked up to a mythical circle of mushrooms.</td>
+        <td>Experience mental breakdown with an elf and a duct tape!</td>
     </tr>
 </table>
