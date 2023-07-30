@@ -1,28 +1,26 @@
 # Hey, I'm Viktor 👋 
+I am a student who is working on some projects right now. 
 
-I am working on some side projects right now, learning math and banging my head against the wall. 
+### Contact me!
+- [Email](mailto:viktor.chernikov@onet.pl): `viktor.chernikov@onet.pl`
+- [Discord](https://discord.gg/H4KDxzMpP2): `polybro`
+  
+## Languages and Frameworks
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p><a href="https://www.linkedin.com/in/viktorchernikov/"><img src="https://img.shields.io/static/v1?label=%20&message=Linkedin&color=%230077B5&logo=linkedin&logoColor=white"></a>
-<a href="https://chernikov.itch.io"><img src="https://img.shields.io/static/v1?label=&message=Itch.io&color=%23FA5C5C&logo=itch.io&logoColor=white"></a>
-<a href="https://discord.gg/gBHgbENaXu"><img src="https://img.shields.io/static/v1?label=%20&message=Discord&color=%235865F2&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/atvuvczyikvwvz55lohq8cres"><img src="https://img.shields.io/static/v1?label=%20&message=Spotify&color=%231DB954&logo=spotify&logoColor=white"></a></p>
+## Tools and Software
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&l
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ogoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-# Games
-
-<table border="1px solid black">
-    <tr>
-        <td>Thumbnail</td>
-        <td>Name</td>
-        <td>Description</td>
-    </tr>
-    <tr>
-        <td><img src="https://img.itch.zone/aW1nLzEwOTE2NjI1LnBuZw==/315x250%23c/7wWbS0.png" width="128px"></td>
-        <td><a href="https://chernikov.itch.io/watchbear">Watchbear</a></td>
-        <td>Scare away the darkness and protect child's night light!</td>
-    </tr>
-    <tr>
-        <td><img src="https://img.itch.zone/aW1nLzExNzczMDY1LnBuZw==/315x250%23c/nqTGyP.png" width="128px"></td>
-        <td><a href="https://chernikov.itch.io/elf-escape">Elf Escape</a></td>
-        <td>Experience mental breakdown with an elf and a duct tape!</td>
-    </tr>
-</table>
+## Currently learning
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
