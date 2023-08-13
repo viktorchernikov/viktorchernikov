@@ -28,9 +28,6 @@ I am a student who is working on some projects right now.
 ## Currently learning
 ![TypeScript](https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/nodejs-%3c873a.svg?style=for-the-badge&logo=node.js&logoColor=black)
-![Angular](https://img.shields.io/badge/angular-dd1b16.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DBFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-044F88.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
