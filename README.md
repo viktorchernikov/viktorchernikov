@@ -2,8 +2,7 @@
 I am a student who is working on some projects right now. 
 
 ### Contact me!
-- [Email](mailto:viktor.chernikov@onet.pl): `contact@chernikov.dev`
-- [Discord](https://discord.gg/H4KDxzMpP2): `polybro`
+- [Email](mailto:vktrchernikov@gmail.com): `vktrchernikov@gmail.com`
   
 ## Languages, Frameworks and Libraries
 ![PHP](https://img.shields.io/badge/php-%233233.svg?style=for-the-badge&logo=php&logoColor=%8993be)
